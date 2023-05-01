@@ -1,4 +1,4 @@
-# End to Enf ML project
+End to End ML project using Linear Regression
 
 # Create a virtual environmennt
 '''''
